@@ -1,33 +1,33 @@
 [
   {
     "full_name": "Dashibase/dashibase",
-    "stargazers_count": 299,
+    "stargazers_count": 302,
     "open_issues_count": 15,
     "forks_count": 20
   },
   {
     "full_name": "apache/incubator-devlake",
     "stargazers_count": 1631,
-    "open_issues_count": 116,
-    "forks_count": 209
+    "open_issues_count": 124,
+    "forks_count": 210
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 25927,
-    "open_issues_count": 75,
-    "forks_count": 682
+    "stargazers_count": 25951,
+    "open_issues_count": 74,
+    "forks_count": 683
   },
   {
     "full_name": "apache/incubator-devlake-website",
     "stargazers_count": 8,
-    "open_issues_count": 16,
+    "open_issues_count": 17,
     "forks_count": 23
   },
   {
     "full_name": "earthly/earthly",
-    "stargazers_count": 7326,
-    "open_issues_count": 325,
-    "forks_count": 244
+    "stargazers_count": 7337,
+    "open_issues_count": 324,
+    "forks_count": 245
   },
   {
     "full_name": "papyrs/papyrs",
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "openresty/openresty",
-    "stargazers_count": 10584,
+    "stargazers_count": 10588,
     "open_issues_count": 244,
     "forks_count": 1389
   },
@@ -67,8 +67,8 @@
   },
   {
     "full_name": "novuhq/novu",
-    "stargazers_count": 4754,
-    "open_issues_count": 56,
+    "stargazers_count": 4757,
+    "open_issues_count": 57,
     "forks_count": 267
   },
   {
@@ -79,21 +79,21 @@
   },
   {
     "full_name": "chakra-ui/zag",
-    "stargazers_count": 1204,
+    "stargazers_count": 1205,
     "open_issues_count": 7,
-    "forks_count": 28
+    "forks_count": 29
   },
   {
     "full_name": "jdorfman/awesome-json-datasets",
-    "stargazers_count": 2566,
+    "stargazers_count": 2567,
     "open_issues_count": 4,
     "forks_count": 339
   },
   {
     "full_name": "RunaCapital/awesome-oss-alternatives",
-    "stargazers_count": 11427,
-    "open_issues_count": 12,
-    "forks_count": 573
+    "stargazers_count": 11436,
+    "open_issues_count": 13,
+    "forks_count": 574
   },
   {
     "full_name": "todogroup/ospology",
@@ -103,8 +103,8 @@
   },
   {
     "full_name": "pouchdb/pouchdb",
-    "stargazers_count": 15080,
-    "open_issues_count": 41,
+    "stargazers_count": 15081,
+    "open_issues_count": 40,
     "forks_count": 1431
   },
   {
@@ -121,8 +121,8 @@
   },
   {
     "full_name": "httpie/httpie",
-    "stargazers_count": 22442,
-    "open_issues_count": 112,
+    "stargazers_count": 22462,
+    "open_issues_count": 110,
     "forks_count": 3686
   },
   {
@@ -139,15 +139,15 @@
   },
   {
     "full_name": "buildable/templates",
-    "stargazers_count": 106,
+    "stargazers_count": 107,
     "open_issues_count": 2,
     "forks_count": 10
   },
   {
     "full_name": "streamlit/streamlit",
-    "stargazers_count": 19888,
-    "open_issues_count": 617,
-    "forks_count": 1783
+    "stargazers_count": 19892,
+    "open_issues_count": 612,
+    "forks_count": 1784
   },
   {
     "full_name": "opensourcestories/opensourcestories.org",
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "tailwindlabs/tailwindcss",
-    "stargazers_count": 58714,
+    "stargazers_count": 58732,
     "open_issues_count": 18,
-    "forks_count": 2947
+    "forks_count": 2950
   },
   {
     "full_name": "brendonboshell/supercrawler",
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "ruipgil/scraperjs",
-    "stargazers_count": 3659,
+    "stargazers_count": 3658,
     "open_issues_count": 27,
     "forks_count": 206
   }
