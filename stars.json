@@ -1,45 +1,45 @@
 [
   {
     "full_name": "apache/incubator-devlake",
-    "stargazers_count": 1783,
+    "stargazers_count": 1786,
     "open_issues_count": 150,
-    "forks_count": 261
+    "forks_count": 262
   },
   {
     "full_name": "goodrain/rainbond",
-    "stargazers_count": 3591,
-    "open_issues_count": 87,
+    "stargazers_count": 3594,
+    "open_issues_count": 85,
     "forks_count": 661
   },
   {
     "full_name": "apache/incubator-devlake-website",
     "stargazers_count": 22,
     "open_issues_count": 17,
-    "forks_count": 51
+    "forks_count": 50
   },
   {
     "full_name": "appwrite/appwrite",
-    "stargazers_count": 27027,
-    "open_issues_count": 714,
+    "stargazers_count": 27096,
+    "open_issues_count": 720,
     "forks_count": 2228
   },
   {
     "full_name": "taosdata/TDengine",
-    "stargazers_count": 19571,
-    "open_issues_count": 644,
-    "forks_count": 4519
+    "stargazers_count": 19596,
+    "open_issues_count": 652,
+    "forks_count": 4523
   },
   {
     "full_name": "apache/dolphinscheduler",
-    "stargazers_count": 9337,
-    "open_issues_count": 1028,
-    "forks_count": 3451
+    "stargazers_count": 9362,
+    "open_issues_count": 1051,
+    "forks_count": 3460
   },
   {
     "full_name": "istio/istio",
-    "stargazers_count": 31805,
-    "open_issues_count": 557,
-    "forks_count": 6759
+    "stargazers_count": 31831,
+    "open_issues_count": 571,
+    "forks_count": 6772
   },
   {
     "full_name": "dmitryvinn/awesome-dev-advocacy",
@@ -50,7 +50,7 @@
   {
     "full_name": "devstream-io/website",
     "stargazers_count": 8,
-    "open_issues_count": 4,
+    "open_issues_count": 2,
     "forks_count": 11
   },
   {
@@ -61,67 +61,67 @@
   },
   {
     "full_name": "devstream-io/devstream",
-    "stargazers_count": 664,
-    "open_issues_count": 47,
-    "forks_count": 173
+    "stargazers_count": 662,
+    "open_issues_count": 49,
+    "forks_count": 174
   },
   {
     "full_name": "SAP/open-ux-tools",
     "stargazers_count": 57,
-    "open_issues_count": 55,
+    "open_issues_count": 56,
     "forks_count": 19
   },
   {
     "full_name": "todogroup/todogroup.org",
-    "stargazers_count": 192,
+    "stargazers_count": 191,
     "open_issues_count": 34,
     "forks_count": 108
   },
   {
     "full_name": "neo4j/neo4j",
-    "stargazers_count": 10596,
-    "open_issues_count": 282,
-    "forks_count": 2206
+    "stargazers_count": 10612,
+    "open_issues_count": 283,
+    "forks_count": 2204
   },
   {
     "full_name": "neo4j-php/neo4j-php-client",
     "stargazers_count": 113,
     "open_issues_count": 15,
-    "forks_count": 25
+    "forks_count": 26
   },
   {
     "full_name": "prometheus/prometheus",
-    "stargazers_count": 45334,
-    "open_issues_count": 773,
-    "forks_count": 7629
+    "stargazers_count": 45400,
+    "open_issues_count": 777,
+    "forks_count": 7638
   },
   {
     "full_name": "cgrates/cgrates",
     "stargazers_count": 367,
-    "open_issues_count": 51,
-    "forks_count": 201
+    "open_issues_count": 53,
+    "forks_count": 202
   },
   {
     "full_name": "keploy/keploy",
-    "stargazers_count": 1144,
-    "open_issues_count": 26,
+    "stargazers_count": 1148,
+    "open_issues_count": 27,
     "forks_count": 84
   },
   {
     "full_name": "devtron-labs/devtron",
-    "stargazers_count": 2632,
-    "open_issues_count": 349,
-    "forks_count": 264
+    "stargazers_count": 2650,
+    "open_issues_count": 353,
+    "forks_count": 263
   },
   {
     "full_name": "backstage/backstage",
-    "stargazers_count": 19102,
-    "open_issues_count": 441,
-    "forks_count": 3213
+    "stargazers_count": 19163,
+    "open_issues_count": 442,
+    "forks_count": 3231
   },
   {
     "full_name": "mxcl/PromiseKit",
-    "stargazers_count": 13969,
+    "stargazers_count": 13972,
     "open_issues_count": 21,
     "forks_count": 1459
   },
@@ -129,36 +129,36 @@
     "full_name": "apache/kibble",
     "stargazers_count": 24,
     "open_issues_count": 7,
-    "forks_count": 7
+    "forks_count": 6
   },
   {
     "full_name": "vuestorefront/storefront-ui",
     "stargazers_count": 1951,
-    "open_issues_count": 75,
+    "open_issues_count": 76,
     "forks_count": 423
   },
   {
     "full_name": "carbon-app/carbon",
-    "stargazers_count": 31515,
-    "open_issues_count": 28,
-    "forks_count": 1781
+    "stargazers_count": 31536,
+    "open_issues_count": 30,
+    "forks_count": 1782
   },
   {
     "full_name": "SentryPeer/SentryPeer",
     "stargazers_count": 115,
-    "open_issues_count": 5,
+    "open_issues_count": 6,
     "forks_count": 15
   },
   {
     "full_name": "teamhanko/hanko",
-    "stargazers_count": 1273,
-    "open_issues_count": 27,
-    "forks_count": 43
+    "stargazers_count": 1285,
+    "open_issues_count": 26,
+    "forks_count": 45
   },
   {
     "full_name": "formbricks/formbricks",
-    "stargazers_count": 1047,
-    "open_issues_count": 55,
+    "stargazers_count": 1055,
+    "open_issues_count": 54,
     "forks_count": 77
   },
   {
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "wsargent/docker-cheat-sheet",
-    "stargazers_count": 21202,
+    "stargazers_count": 21203,
     "open_issues_count": 6,
     "forks_count": 4513
   },
   {
     "full_name": "docker/labs",
-    "stargazers_count": 10993,
+    "stargazers_count": 10999,
     "open_issues_count": 129,
-    "forks_count": 5348
+    "forks_count": 5350
   }
 ]
