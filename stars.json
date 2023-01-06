@@ -1,57 +1,63 @@
 [
   {
+    "full_name": "gitpod-io/gitpod",
+    "stargazers_count": 9969,
+    "open_issues_count": 1102,
+    "forks_count": 995
+  },
+  {
     "full_name": "remotion-dev/github-unwrapped-2022",
-    "stargazers_count": 1049,
+    "stargazers_count": 1108,
     "open_issues_count": 0,
-    "forks_count": 57
+    "forks_count": 63
   },
   {
     "full_name": "apache/incubator-devlake",
-    "stargazers_count": 1855,
-    "open_issues_count": 91,
+    "stargazers_count": 1863,
+    "open_issues_count": 82,
     "forks_count": 286
   },
   {
     "full_name": "pocketbase/pocketbase",
-    "stargazers_count": 19122,
-    "open_issues_count": 48,
-    "forks_count": 715
+    "stargazers_count": 19336,
+    "open_issues_count": 47,
+    "forks_count": 722
   },
   {
     "full_name": "goodrain/rainbond",
-    "stargazers_count": 3710,
-    "open_issues_count": 105,
+    "stargazers_count": 3718,
+    "open_issues_count": 103,
     "forks_count": 674
   },
   {
     "full_name": "apache/incubator-devlake-website",
     "stargazers_count": 22,
-    "open_issues_count": 13,
-    "forks_count": 52
+    "open_issues_count": 10,
+    "forks_count": 53
   },
   {
     "full_name": "appwrite/appwrite",
-    "stargazers_count": 28205,
-    "open_issues_count": 718,
-    "forks_count": 2333
+    "stargazers_count": 28297,
+    "open_issues_count": 717,
+    "forks_count": 2339
   },
   {
     "full_name": "taosdata/TDengine",
-    "stargazers_count": 20362,
-    "open_issues_count": 774,
-    "forks_count": 4582
+    "stargazers_count": 20392,
+    "open_issues_count": 791,
+    "forks_count": 4586
   },
   {
     "full_name": "apache/dolphinscheduler",
-    "stargazers_count": 9583,
-    "open_issues_count": 1065,
-    "forks_count": 3558
+    "stargazers_count": 9601,
+    "open_issues_count": 1066,
+    "forks_count": 3567
   },
   {
     "full_name": "istio/istio",
-    "stargazers_count": 32129,
-    "open_issues_count": 610,
-    "forks_count": 6886
+    "stargazers_count": 32144,
+    "open_issues_count": 595,
+    "forks_count": 6894
   },
   {
     "full_name": "dmitryvinn/awesome-dev-advocacy",
@@ -91,9 +97,9 @@
   },
   {
     "full_name": "neo4j/neo4j",
-    "stargazers_count": 10744,
-    "open_issues_count": 298,
-    "forks_count": 2214
+    "stargazers_count": 10751,
+    "open_issues_count": 296,
+    "forks_count": 2215
   },
   {
     "full_name": "neo4j-php/neo4j-php-client",
@@ -103,39 +109,39 @@
   },
   {
     "full_name": "prometheus/prometheus",
-    "stargazers_count": 46174,
+    "stargazers_count": 46208,
     "open_issues_count": 837,
-    "forks_count": 7770
+    "forks_count": 7778
   },
   {
     "full_name": "cgrates/cgrates",
     "stargazers_count": 368,
-    "open_issues_count": 51,
-    "forks_count": 204
+    "open_issues_count": 55,
+    "forks_count": 205
   },
   {
     "full_name": "keploy/keploy",
-    "stargazers_count": 1217,
+    "stargazers_count": 1249,
     "open_issues_count": 45,
-    "forks_count": 93
+    "forks_count": 94
   },
   {
     "full_name": "devtron-labs/devtron",
-    "stargazers_count": 2782,
-    "open_issues_count": 396,
-    "forks_count": 289
+    "stargazers_count": 2807,
+    "open_issues_count": 402,
+    "forks_count": 291
   },
   {
     "full_name": "backstage/backstage",
-    "stargazers_count": 20084,
-    "open_issues_count": 402,
-    "forks_count": 3420
+    "stargazers_count": 20162,
+    "open_issues_count": 410,
+    "forks_count": 3428
   },
   {
     "full_name": "mxcl/PromiseKit",
-    "stargazers_count": 14012,
+    "stargazers_count": 14010,
     "open_issues_count": 24,
-    "forks_count": 1462
+    "forks_count": 1463
   },
   {
     "full_name": "apache/kibble",
@@ -145,15 +151,15 @@
   },
   {
     "full_name": "vuestorefront/storefront-ui",
-    "stargazers_count": 1962,
+    "stargazers_count": 1963,
     "open_issues_count": 80,
-    "forks_count": 430
+    "forks_count": 431
   },
   {
     "full_name": "carbon-app/carbon",
-    "stargazers_count": 31734,
+    "stargazers_count": 31760,
     "open_issues_count": 38,
-    "forks_count": 1795
+    "forks_count": 1797
   },
   {
     "full_name": "SentryPeer/SentryPeer",
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "teamhanko/hanko",
-    "stargazers_count": 1507,
-    "open_issues_count": 38,
+    "stargazers_count": 1513,
+    "open_issues_count": 39,
     "forks_count": 53
   },
   {
     "full_name": "formbricks/formbricks",
-    "stargazers_count": 1174,
+    "stargazers_count": 1181,
     "open_issues_count": 51,
     "forks_count": 92
-  },
-  {
-    "full_name": "Devocate-Community/Developer-Program-Strategy-Skeleton",
-    "stargazers_count": 12,
-    "open_issues_count": 0,
-    "forks_count": 1
   }
 ]
