@@ -1,31 +1,31 @@
 [
   {
     "full_name": "Codium-ai/pr-agent",
-    "stargazers_count": 3059,
-    "open_issues_count": 23,
-    "forks_count": 245
+    "stargazers_count": 3086,
+    "open_issues_count": 21,
+    "forks_count": 246
   },
   {
     "full_name": "devchat-ai/devchat-intellij",
-    "stargazers_count": 3,
+    "stargazers_count": 4,
     "open_issues_count": 1,
-    "forks_count": 1
+    "forks_count": 2
   },
   {
     "full_name": "mfts/papermark",
-    "stargazers_count": 1564,
-    "open_issues_count": 59,
-    "forks_count": 161
+    "stargazers_count": 1616,
+    "open_issues_count": 61,
+    "forks_count": 165
   },
   {
     "full_name": "opendilab/LLMRiddles",
     "stargazers_count": 435,
-    "open_issues_count": 3,
+    "open_issues_count": 4,
     "forks_count": 33
   },
   {
     "full_name": "devchat-ai/devchat-vscode",
-    "stargazers_count": 47,
+    "stargazers_count": 48,
     "open_issues_count": 4,
     "forks_count": 9
   },
@@ -37,20 +37,20 @@
   },
   {
     "full_name": "continuedev/continue",
-    "stargazers_count": 5997,
-    "open_issues_count": 76,
-    "forks_count": 298
+    "stargazers_count": 6110,
+    "open_issues_count": 72,
+    "forks_count": 303
   },
   {
     "full_name": "Xeift/Metamask-Mnemonic-Brute-Force",
-    "stargazers_count": 46,
+    "stargazers_count": 47,
     "open_issues_count": 0,
     "forks_count": 25
   },
   {
     "full_name": "devchat-ai/devchat",
-    "stargazers_count": 266,
-    "open_issues_count": 25,
+    "stargazers_count": 267,
+    "open_issues_count": 32,
     "forks_count": 25
   },
   {
@@ -73,69 +73,69 @@
   },
   {
     "full_name": "boxyhq/jackson",
-    "stargazers_count": 1360,
-    "open_issues_count": 35,
-    "forks_count": 116
+    "stargazers_count": 1367,
+    "open_issues_count": 40,
+    "forks_count": 120
   },
   {
     "full_name": "apache/incubator-devlake-helm-chart",
     "stargazers_count": 23,
-    "open_issues_count": 15,
+    "open_issues_count": 17,
     "forks_count": 28
   },
   {
     "full_name": "astuto/astuto",
-    "stargazers_count": 1577,
-    "open_issues_count": 41,
+    "stargazers_count": 1585,
+    "open_issues_count": 43,
     "forks_count": 118
   },
   {
     "full_name": "apache/incubator-devlake",
-    "stargazers_count": 2308,
+    "stargazers_count": 2319,
     "open_issues_count": 115,
     "forks_count": 435
   },
   {
     "full_name": "sorayuki/obs-multi-rtmp",
-    "stargazers_count": 2840,
+    "stargazers_count": 2849,
     "open_issues_count": 113,
     "forks_count": 430
   },
   {
     "full_name": "juspay/hyperswitch",
-    "stargazers_count": 8947,
-    "open_issues_count": 394,
+    "stargazers_count": 9029,
+    "open_issues_count": 400,
     "forks_count": 751
   },
   {
     "full_name": "stepci/stepci",
-    "stargazers_count": 1420,
-    "open_issues_count": 45,
+    "stargazers_count": 1422,
+    "open_issues_count": 46,
     "forks_count": 55
   },
   {
     "full_name": "iKenndac/Tofu",
-    "stargazers_count": 452,
+    "stargazers_count": 453,
     "open_issues_count": 52,
     "forks_count": 66
   },
   {
     "full_name": "Linen-dev/linen.dev",
-    "stargazers_count": 2690,
+    "stargazers_count": 2691,
     "open_issues_count": 134,
     "forks_count": 133
   },
   {
     "full_name": "WasmEdge/WasmEdge",
-    "stargazers_count": 7451,
+    "stargazers_count": 7471,
     "open_issues_count": 300,
-    "forks_count": 657
+    "forks_count": 659
   },
   {
     "full_name": "amplication/amplication",
-    "stargazers_count": 13003,
-    "open_issues_count": 624,
-    "forks_count": 1326
+    "stargazers_count": 13020,
+    "open_issues_count": 632,
+    "forks_count": 1328
   },
   {
     "full_name": "keptn/keptn",
@@ -145,38 +145,38 @@
   },
   {
     "full_name": "RocketChat/Rocket.Chat",
-    "stargazers_count": 38048,
-    "open_issues_count": 3033,
-    "forks_count": 9719
+    "stargazers_count": 38073,
+    "open_issues_count": 3038,
+    "forks_count": 9739
   },
   {
     "full_name": "meshery/meshery",
-    "stargazers_count": 4474,
-    "open_issues_count": 361,
-    "forks_count": 1391
+    "stargazers_count": 4573,
+    "open_issues_count": 378,
+    "forks_count": 1407
   },
   {
     "full_name": "pingcap/tidb",
-    "stargazers_count": 35543,
-    "open_issues_count": 4532,
-    "forks_count": 5719
+    "stargazers_count": 35564,
+    "open_issues_count": 4565,
+    "forks_count": 5729
   },
   {
     "full_name": "gitpod-io/gitpod",
-    "stargazers_count": 11943,
-    "open_issues_count": 721,
+    "stargazers_count": 11952,
+    "open_issues_count": 720,
     "forks_count": 1222
   },
   {
     "full_name": "remotion-dev/github-unwrapped-2022",
-    "stargazers_count": 1316,
+    "stargazers_count": 1317,
     "open_issues_count": 1,
     "forks_count": 86
   },
   {
     "full_name": "pocketbase/pocketbase",
-    "stargazers_count": 30344,
-    "open_issues_count": 35,
-    "forks_count": 1352
+    "stargazers_count": 30453,
+    "open_issues_count": 36,
+    "forks_count": 1356
   }
 ]
