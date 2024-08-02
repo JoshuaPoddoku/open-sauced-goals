@@ -1,9 +1,9 @@
 [
   {
     "full_name": "TelegramMessenger/Telegram-iOS",
-    "stargazers_count": 5578,
-    "open_issues_count": 479,
-    "forks_count": 1507
+    "stargazers_count": 5583,
+    "open_issues_count": 480,
+    "forks_count": 1508
   },
   {
     "full_name": "dora-team/conversations.dora.dev",
@@ -19,39 +19,39 @@
   },
   {
     "full_name": "apache/incubator-devlake",
-    "stargazers_count": 2523,
-    "open_issues_count": 104,
-    "forks_count": 504
+    "stargazers_count": 2527,
+    "open_issues_count": 106,
+    "forks_count": 505
   },
   {
     "full_name": "ixartz/Next-js-Boilerplate",
-    "stargazers_count": 8258,
-    "open_issues_count": 0,
-    "forks_count": 1581
+    "stargazers_count": 8286,
+    "open_issues_count": 1,
+    "forks_count": 1585
   },
   {
     "full_name": "merico-dev/table",
     "stargazers_count": 25,
-    "open_issues_count": 52,
+    "open_issues_count": 53,
     "forks_count": 6
   },
   {
     "full_name": "open-sauced/app",
-    "stargazers_count": 393,
-    "open_issues_count": 329,
-    "forks_count": 205
+    "stargazers_count": 395,
+    "open_issues_count": 317,
+    "forks_count": 206
   },
   {
     "full_name": "HeyPuter/puter",
-    "stargazers_count": 22191,
-    "open_issues_count": 100,
-    "forks_count": 1413
+    "stargazers_count": 22307,
+    "open_issues_count": 103,
+    "forks_count": 1428
   },
   {
     "full_name": "Codium-ai/pr-agent",
-    "stargazers_count": 5137,
-    "open_issues_count": 33,
-    "forks_count": 460
+    "stargazers_count": 5157,
+    "open_issues_count": 35,
+    "forks_count": 464
   },
   {
     "full_name": "devchat-ai/devchat-intellij",
@@ -61,33 +61,33 @@
   },
   {
     "full_name": "mfts/papermark",
-    "stargazers_count": 3086,
-    "open_issues_count": 67,
-    "forks_count": 363
+    "stargazers_count": 3127,
+    "open_issues_count": 65,
+    "forks_count": 371
   },
   {
     "full_name": "opendilab/LLMRiddles",
     "stargazers_count": 514,
-    "open_issues_count": 3,
+    "open_issues_count": 2,
     "forks_count": 35
   },
   {
     "full_name": "devchat-ai/devchat-vscode",
-    "stargazers_count": 70,
+    "stargazers_count": 71,
     "open_issues_count": 6,
     "forks_count": 11
   },
   {
     "full_name": "demberto/PyFLP",
-    "stargazers_count": 118,
+    "stargazers_count": 119,
     "open_issues_count": 28,
     "forks_count": 12
   },
   {
     "full_name": "continuedev/continue",
-    "stargazers_count": 13868,
-    "open_issues_count": 387,
-    "forks_count": 987
+    "stargazers_count": 13943,
+    "open_issues_count": 393,
+    "forks_count": 999
   },
   {
     "full_name": "Xeift/Metamask-Mnemonic-Brute-Force",
@@ -97,7 +97,7 @@
   },
   {
     "full_name": "devchat-ai/devchat",
-    "stargazers_count": 330,
+    "stargazers_count": 331,
     "open_issues_count": 37,
     "forks_count": 36
   },
@@ -121,8 +121,8 @@
   },
   {
     "full_name": "boxyhq/jackson",
-    "stargazers_count": 1708,
-    "open_issues_count": 35,
+    "stargazers_count": 1718,
+    "open_issues_count": 38,
     "forks_count": 146
   },
   {
@@ -133,25 +133,25 @@
   },
   {
     "full_name": "astuto/astuto",
-    "stargazers_count": 1781,
+    "stargazers_count": 1784,
     "open_issues_count": 44,
-    "forks_count": 140
+    "forks_count": 141
   },
   {
     "full_name": "sorayuki/obs-multi-rtmp",
-    "stargazers_count": 3338,
+    "stargazers_count": 3343,
     "open_issues_count": 129,
-    "forks_count": 473
+    "forks_count": 474
   },
   {
     "full_name": "juspay/hyperswitch",
-    "stargazers_count": 11165,
-    "open_issues_count": 575,
-    "forks_count": 1200
+    "stargazers_count": 11188,
+    "open_issues_count": 574,
+    "forks_count": 1206
   },
   {
     "full_name": "stepci/stepci",
-    "stargazers_count": 1590,
+    "stargazers_count": 1593,
     "open_issues_count": 53,
     "forks_count": 71
   },
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "Linen-dev/linen.dev",
-    "stargazers_count": 2740,
+    "stargazers_count": 2741,
     "open_issues_count": 133,
     "forks_count": 106
   },
   {
     "full_name": "WasmEdge/WasmEdge",
-    "stargazers_count": 8217,
+    "stargazers_count": 8220,
     "open_issues_count": 256,
-    "forks_count": 735
+    "forks_count": 736
   },
   {
     "full_name": "amplication/amplication",
-    "stargazers_count": 14852,
-    "open_issues_count": 645,
+    "stargazers_count": 14882,
+    "open_issues_count": 634,
     "forks_count": 1437
   }
 ]
